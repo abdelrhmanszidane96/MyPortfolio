@@ -162,7 +162,7 @@ const projects = [
   {
     name: "My Portfolio",
     description:
-      ".",
+      "my Portfolio using threejs and react.",
     tags: [
       {
         name: "nextjs",
